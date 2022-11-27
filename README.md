@@ -1,2 +1,2 @@
 # DAO
-Code Source for FairTradeToad project
+Our Source Code for FairTradeToad project
